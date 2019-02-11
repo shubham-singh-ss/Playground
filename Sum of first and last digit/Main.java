@@ -19,5 +19,6 @@ class Main {
       int b = c/(s);
       int k = b/10;
       System.out.println(k+a);
+	System.out.println("Hello");
 	}
 }
